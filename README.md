@@ -26,12 +26,12 @@ menu
 input
 ```
 
-Encontraremos estos archivos en la carpeta *[source](https://github.com/SanchezGarciaEmilio/20211008-Primer_proyecto_typescript/tree/main/src)*(src)
+Encontraremos estos archivos en la carpeta *[source](https://github.com/SanchezGarciaEmilio/20211024_clases-typescript/tree/main/src)*(src)
 
 
 # Documentación 📝
 
-En la carpeta de *[documentation](https://github.com/SanchezGarciaEmilio/20211008-Primer_proyecto_typescript/tree/main/doc)*(doc) hemos incluido las nociones teóricas necesarias para este proyecto en el archivo del *[manual de node](https://github.com/SanchezGarciaEmilio/20211008-Primer_proyecto_typescript/blob/main/doc/Manual_node.pdf)*.
+En la carpeta de *[documentation](https://github.com/SanchezGarciaEmilio/20211024_clases-typescript/tree/main/doc)*(doc) hemos incluido las nociones teóricas necesarias para este proyecto en el archivo del manual de node.
 
 
 
